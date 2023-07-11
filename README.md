@@ -4,12 +4,12 @@
 
 
 
-## :computer: Technologies I've worked with
-### Languages/Libraries
+## Technologies I've worked with
+### :pencil2: Languages/Libraries
 [![My Skills](https://skillicons.dev/icons?i=js,react,ruby,rails,redux,html,css,py)](https://skillicons.dev)
-### Tools
+### :hammer: Tools
 [![My Skills](https://skillicons.dev/icons?i=github,postman,git,babel,heroku)](https://skillicons.dev)
-### Databases
+### :floppy_disk: Databases
 [![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,sqlite)](https://skillicons.dev)
 
 
