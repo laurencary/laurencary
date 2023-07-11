@@ -5,7 +5,7 @@
 
 
 ## :computer: Technologies I've worked with
-<img src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/javascript/javascript_48x48.png" alt="JavaScript">
+[https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/javascript/javascript_48x48.png](https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg)
 
 
 ## The fun stuff
