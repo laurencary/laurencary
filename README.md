@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi there 👋 I'm Lauren Cary #### (she/her)
+:earth_americas: Bay Area, California :mailbox: armstronglg720@gmail.com
 
+
+
+
+
+# The fun stuff
+I love hiking, ultimate frisbee, and bodies of water. Midwestern -> Bay Area, CA.
 <!--
 **laurencary/laurencary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
