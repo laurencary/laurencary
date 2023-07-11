@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Lauren Cary
-:earth_americas: Bay Area, California :mailbox: armstronglg720@gmail.com
+:earth_americas:  Bay Area, California  :mailbox:  armstronglg720@gmail.com
 
 
 
