@@ -1,13 +1,15 @@
 # Hi there 👋 I'm Lauren Cary
-:earth_americas:  Bay Area, California  
+:earth_americas:  Wisconsinite in Bay Area, California  
 :mailbox:  armstronglg720@gmail.com
 
 
 
+## :computer: Technologies I've worked with
+<img src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/javascript/javascript_48x48.png" alt="JavaScript">
 
 
-# The fun stuff
-I love hiking, ultimate frisbee, and bodies of water. Midwestern -> Bay Area, CA.
+## The fun stuff
+I love hiking, ultimate frisbee, and bodies of water. 
 <!--
 **laurencary/laurencary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
