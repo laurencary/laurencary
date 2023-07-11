@@ -5,7 +5,9 @@
 
 
 ## :computer: Technologies I've worked with
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,ruby,rails,redux,html,css,py,github,postman,git,babel,heroku)](https://skillicons.dev)
+### Databases
+[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,sqlite)](https://skillicons.dev)
 
 
 ## The fun stuff
