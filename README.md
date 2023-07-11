@@ -5,7 +5,7 @@
 
 
 ## :computer: Technologies I've worked with
-[https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/javascript/javascript_48x48.png](https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 
 ## The fun stuff
