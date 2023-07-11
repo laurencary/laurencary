@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Lauren Cary #### (she/her)
+# Hi there 👋 I'm Lauren Cary
 :earth_americas: Bay Area, California :mailbox: armstronglg720@gmail.com
 
 
