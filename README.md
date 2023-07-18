@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Lauren Cary
 :earth_americas:  Wisconsinite in Bay Area, California  
-:mailbox:  armstronglg720@gmail.com
-:file_folder: [Portfolio](https://laurencary.github.io/portfolio/)
+:mailbox:  armstronglg720@gmail.com<br>
+:file_folder: [portfolio](https://laurencary.github.io/portfolio/)
 
 I'm an actuary turned data analyst turned software engineer. I have a passion and strong drive to learn and master new things. Automation was first introduced to me in my first full time job, using VBA with Excel. It was intuitive and fit my personality of being methodical, systematic and efficient. Since then, everything I worked on, I have tried to implement some form of automation, frequently volunteering to improve processes and tools me and my teammates were using. 
 
