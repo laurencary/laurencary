@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Lauren Cary
 :earth_americas:  Wisconsinite in Bay Area, California  
 :mailbox:  armstronglg720@gmail.com<br>
-:file_folder: [portfolio](https://laurencary.github.io/portfolio/)
+:file_folder: [portfolio](https://laurencary.netlify.app/)
 
 With a solid foundation in mathematics and statistics, I pursued a career in actuarial science and data analysis, where I honed my ability to analyze complex datasets and derive meaningful insights. While building data pipelines and automating processes, I discovered a passion for software development and decided to make a career transition to pursue this newfound interest.
 
