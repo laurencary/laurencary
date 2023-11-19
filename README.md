@@ -11,7 +11,7 @@ Now, I'm so excited to call myself a software engineer. Some of my favorite tool
 
 ## Technologies I've worked with
 ### :pencil2: Languages/Libraries
-[![My Skills](https://skillicons.dev/icons?i=js,react,ruby,rails,redux,html,css,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,ruby,rails,redux,html,css,py,cpp)](https://skillicons.dev)
 ### :hammer: Tools
 [![My Skills](https://skillicons.dev/icons?i=github,postman,git,babel,heroku)](https://skillicons.dev)
 ### :floppy_disk: Databases
