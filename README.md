@@ -22,4 +22,4 @@ Now, I'm so excited to call myself a software engineer. Some of my favorite tool
 
 
 ## The fun stuff
-I love hiking, ultimate frisbee, and bodies of water. 
+I love hiking, making things (woodworking, crafts, etc.), ultimate frisbee, and bodies of water. 
